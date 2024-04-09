@@ -8,4 +8,4 @@ dobavili text lokalino
 
 dobavili text v novoi vetke "newbranch"
 
-razreshaem konflikt
+razreshaem konflikt udalionno 
